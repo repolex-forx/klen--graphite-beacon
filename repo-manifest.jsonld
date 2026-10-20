@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/graphite-beacon/commit/c1f071e9f557693bc90f6acbc314994985dc3b77",
       "git:hexsha": "c1f071e9f557693bc90f6acbc314994985dc3b77",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/graphite-beacon/commit/05949b338748d4b64de4f52d26acd775acddc1b3",
