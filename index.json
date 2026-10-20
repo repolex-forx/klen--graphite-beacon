@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "graphite-beacon",
+  "versions": [
+    {
+      "commit": "c1f071e9f557693bc90f6acbc314994985dc3b77",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:46:24.857931+00:00"
+    }
+  ]
+}
